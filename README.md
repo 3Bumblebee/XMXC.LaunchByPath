@@ -3,10 +3,10 @@
 
 ### Overview
 
-The **XMXC Launch By Path** is a PowerShell tool designed to enhance compatibility and usability for [Xenia Manager](https://github.com/xenia-manager/xenia-manager), an awesome frontend for [Xenia Canary](https://github.com/xenia-canary/xenia-canary). This tool solves two key challenges (for me):
+The **XMXC Launch By Path** is a PowerShell tool designed to enhance compatibility and usability for [Xenia Manager](https://github.com/xenia-manager/xenia-manager), an awesome frontend for [Xenia Canary](https://github.com/xenia-canary/xenia-canary). This tool solves ~~two~~ one key challenge (for me):
 
 1. Launching games by their file path instead of their title, making it compatible with third-party frontends like [LaunchBox](https://www.launchbox-app.com/).
-2. Eliminating the User Account Control (UAC) prompt that appears when launching a game.
+~~2. Eliminating the User Account Control (UAC) prompt that appears when launching a game.~~ No need for this since version 2.3.0
 
 > **Note:** This tool is not affiliated with the development of Xenia Manager or Xenia Canary. Full credit goes to their respective creators for their remarkable work.
 
